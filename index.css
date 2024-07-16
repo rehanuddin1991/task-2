@@ -1,0 +1,62 @@
+body {
+    background-color: #ffffff;
+    border-radius: 4px;
+
+
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    color: white;
+}
+
+.watch {
+    background-color: #0dcbf0;
+    width: 30%;
+    height: 100px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    line-height: 100px;
+    padding-left: 20px;
+    font-weight: 700;
+    font-size: 1.6rem;
+
+}
+
+.shoes {
+    background-color: #0e6ffd;
+    width: 30%;
+    height: 100px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    line-height: 100px;
+    padding-left: 20px;
+    font-weight: 700;
+    font-size: 1.6rem;
+}
+
+.bags {
+    background-color: #198754;
+    width: 30%;
+    height: 100px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    line-height: 100px;
+    padding-left: 20px;
+    font-weight: 700;
+    font-size: 1.6rem;
+}
+
+.open-sans-normal {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
